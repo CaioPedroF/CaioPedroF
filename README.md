@@ -2,7 +2,7 @@
 
 **`Desenvolvedor FullStack`**
 
-Me chamo Caio Pedro, tenho 19 anos e sou natural de Pernambuco. Concluí o ensino médio na Esscola de Referencia Eren Santa Paula Frassineti, estou cursando Análise e Desenvolvimento de Sistemas na UNINASSAU em parceria com o porto digital. Sou apaixonado por tecnologia e esse e meu Linkedin "[Caio Pedro](https://www.linkedin.com/in/caio-pedro-600a3a26b/)", onde compartilho minhas esperiencias e projetos web.
+Concluí minha graduação em Análise e Desenvolvimento de Sistemas através do Porto Digital e, atualmente, aprofundo meus conhecimentos em Engenharia de Dados na CESAR School. Meu objetivo é iniciar uma trajetória sólida na área de tecnologia, aplicando minhas competências em desenvolvimento de software e análise de dados. Sou um profissional comprometido com a inovação e busco um ambiente onde eu possa evoluir tecnicamente e contribuir de forma estratégica para os resultados do time. e esse e meu Linkedin "[Caio Pedro](https://www.linkedin.com/in/caio-pedro-600a3a26b/)", onde compartilho minhas esperiencias e projetos web.
 
 <p align="left">
 
